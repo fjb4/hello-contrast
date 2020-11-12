@@ -1,0 +1,45 @@
+﻿License Attribution for Agent Artifacts
+---------------------------------------
+
+Antlr4.Runtime
+--------------
+Site: https://www.nuget.org/packages/Antlr4.Runtime/4.6.5 (and https://github.com/antlr/grammars-v4/blob/master/sql/tsql/TSqlLexer.g4)
+License: BSD-3-Clause (https://raw.github.com/tunnelvisionlabs/antlr4cs/master/LICENSE.txt)
+
+Autofac
+-------
+Site: https://www.nuget.org/packages/Autofac/ 
+License: MIT (https://github.com/autofac/Autofac/blob/develop/LICENSE)
+
+CoreCLR
+--------
+Site: https://github.com/dotnet/runtime/tree/master/src/coreclr (formerly https://github.com/dotnet/coreclr
+License: MIT (https://github.com/dotnet/runtime/blob/master/LICENSE.TXT)
+
+ReflectionMagic
+---------------
+Site: https://github.com/ReflectionMagic/ReflectionMagic
+License: Apache License 2.0 (https://github.com/ReflectionMagic/ReflectionMagic/blob/master/LICENSE.txt)
+
+Newtonsoft.Json
+---------------
+Site: https://www.nuget.org/packages/Newtonsoft.Json
+License: MIT (https://raw.github.com/JamesNK/Newtonsoft.Json/master/LICENSE.md)
+
+NLog
+----
+Site: https://www.nuget.org/packages/NLog
+License: BSD-3-Clause (https://github.com/NLog/NLog/blob/master/LICENSE.txt)
+
+YamlDotNet
+----------
+Site: https://www.nuget.org/packages/YamlDotNet.Signed
+License: MIT (https://github.com/aaubry/YamlDotNet/blob/master/LICENSE)
+
+rapidxml
+--------
+Site: http://rapidxml.sourceforge.net
+License: Boost Software License/MIT (http://rapidxml.sourceforge.net/license.txt)
+
+
+
